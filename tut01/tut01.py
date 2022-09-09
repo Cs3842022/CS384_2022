@@ -1,5 +1,6 @@
-def factorial(int x):
-    
+def octact_identification(mod=5000):
+###Code
 
-x=int(input("Enter the number whose factorial is to be found"))
-factorial(x)
+
+mod=5000
+octact_identification(mod)
