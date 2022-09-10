@@ -1,0 +1,15 @@
+Hi,
+
+Please install python - 3.8.10 for the entire CS384 course 
+
+How to install specific version on Ubuntu 
+
+https://www.digitalocean.com/community/questions/how-to-install-a-specific-python-version-on-ubuntu
+<The above tut is for 3.9.2, replace 3.9.2 with 3.8.10>
+
+Windows user download the 3.8.10 .exe and install and setup path. 
+https://www.python.org/ftp/python/3.8.10/
+
+Online Verify 
+https://www.onlinegdb.com/online_python_compiler
+It also has 3.8.10
