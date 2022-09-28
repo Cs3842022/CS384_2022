@@ -1,3 +1,8 @@
+
+
+from datetime import datetime
+start_time = datetime.now()
+
 #Help https://youtu.be/H37f_x4wAC0
 def octant_longest_subsequence_count():
 ###Code
@@ -12,3 +17,12 @@ else:
 
 
 octant_longest_subsequence_count()
+
+
+
+
+
+
+#This shall be the last lines of the code.
+end_time = datetime.now()
+print('Duration of Program Execution: {}'.format(end_time - start_time))

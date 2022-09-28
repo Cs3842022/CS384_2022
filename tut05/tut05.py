@@ -1,3 +1,8 @@
+
+
+from datetime import datetime
+start_time = datetime.now()
+
 #Help https://youtu.be/N6PBd4XdnEw
 def octant_range_names(mod=5000):
 
@@ -18,3 +23,8 @@ else:
 mod=5000 
 octant_range_names(mod)
 
+
+
+#This shall be the last lines of the code.
+end_time = datetime.now()
+print('Duration of Program Execution: {}'.format(end_time - start_time))
