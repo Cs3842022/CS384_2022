@@ -1,0 +1,5 @@
+Pakistan (Playing XI): Babar Azam(c), Mohammad Rizwan(w), Fakhar Zaman, Iftikhar Ahmed, Khushdil Shah, Asif Ali, Shadab Khan, Mohammad Nawaz, Naseem Shah, Haris Rauf, Shahnawaz Dahani
+
+India (Playing XI): Rohit Sharma(c), KL Rahul, Virat Kohli, Suryakumar Yadav, Dinesh Karthik(w), Hardik Pandya, Ravindra Jadeja, Bhuvneshwar Kumar, Avesh Khan, Yuzvendra Chahal, Arshdeep Singh
+
+You can map the players name as per the input in the text based commentary. 
