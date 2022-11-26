@@ -1,0 +1,32 @@
+
+The input from the frontend should reach at this point.
+constant_fk2d=0.75
+multiplying_factor_3d=0.5
+Shear_velocity=2.6**3
+
+Display This line and ask user to choose a number
+print('1. C','2. S','3. A','4. C & S','5. C & A','6. S & A','7. C & S & A','8. all combine',sep='\n')
+
+The input from the frontend should reach at this point.
+tch = int(input('Chose Filtering Method From Above:'))
+
+Then depending on the option, there are input for each of the print option. In all they ask for 4 values depending on the input option (Lines 693-696)
+corr = int(input('Enter thresold value C:'))
+SNR = int(input('Enter thresold value S:'))
+Lambda = float(input('Enter Lambda value for A:'))
+k = float(input('Enter k value for A:'))
+
+depending on the input, the further options needs to be asked at the frontend and it should reflect in the backend part of the code.
+
+
+*****
+Similarly Display This line and ask user to choose a number
+
+print('1. previous point','2. 2*last-2nd_last','3. overall_mean', '4. 12_point_strategy','5. mean of previous 2 point', '6. all seqential','7. all parallel',sep='\n')
+
+The input from the frontend should reach at this point.
+sch = int(input('Chose Replacement Method From Above:'))
+
+
+****
+
